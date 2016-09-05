@@ -3,6 +3,5 @@ Mizzou Software Engineering Course
 
 ###### Group README
 
-###### Erbmt9
-  Changed a color from black to blue. Line segment now reads " .style("-webkit-tap-highlight-color","rgba(0,128,255,0)") "
-
+######Erbmt9
+Changed to Dem Primaries (my erbmt9.html file). I changed the title of the page to reflect that, then increased the font size.
