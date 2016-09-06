@@ -14,3 +14,7 @@ Changed to Dem Primaries (my erbmt9.html file). I changed the title of the page 
 
 ######zmd989
 Changed the font color to orange, background to lightcyan and the bars to crimson.
+
+######hlv68
+Republican (GOP) candidates for the 2016 Presidential Election
+change the title.
