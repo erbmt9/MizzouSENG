@@ -11,3 +11,6 @@ This project is designed to work with Git in a small group. This is Group 7's re
 
 ######Erbmt9
 Changed to Dem Primaries (my erbmt9.html file). I changed the title of the page to reflect that, then increased the font size to 20.
+
+######zmd989
+Changed the font color to orange, background to lightcyan and the bars to crimson.
