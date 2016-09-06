@@ -18,3 +18,6 @@ Changed the font color to orange, background to lightcyan and the bars to crimso
 ######hlv68
 Republican (GOP) candidates for the 2016 Presidential Election
 change the title.
+
+######rckc68
+When clicked, the bars for the 2016 National GOP Primary candidates turn blue and the bars for the 2016 Democratic Primary candidates turn red.
