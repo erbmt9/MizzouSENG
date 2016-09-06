@@ -1,5 +1,5 @@
 body {
-    background-color: #EEE;
+    background-color: lightcyan;
 }
 #graph .choice {
     float: left;
@@ -8,11 +8,12 @@ body {
     min-width: 200px;
     text-align: right;
     margin: 8px 5px;
+    color: darkorange
 }
 #graph .bar {
     width: 0;
     height: 35px;
-    background-color: coral;
+    background-color: crimson;
     margin: 5px;
     float: left;
 }
